@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIOGRAPHY</title>
+</head>
+<body>
+    <h1>MY BIO</h1>
+<p>NAME:<em>LUCY VIVIAN NAMUYIMBWA</p>em></p>
+<p>AGE:23</p>
+<P>GENDER : FEMALE</P>
+<P>She lives in Sseguku</P>
+<p>Shes a graduate student from Makerere University</p>
+<p>Shes currently working with YEC as a facilitator</p>
+<p>Hobbies volunteering ,reading and watching movies</p>
+<table border="10">
+    <tr>
+        <th>TITLE</th>
+        <th>ORGANISATION</th>
+        <th>EXPERIENCE</th>
+    </tr>
+    <tr>
+        <td>Youth facilitator</td>
+        <td>YEC</td>
+        <td>10 months</td>
+    </tr>
+    <tr>
+        <td>Research volunteer</td>
+        <td>Petros Zoe Initiative</td>
+        <td>3 months</td>
+    </tr>
+    <tr>
+        <td>Volunteer</td>
+        <td>Model Peace Forum</td>
+        <td>3 years</td>
+    </tr>
+    <img src=""
+
+
+</table>
+
+    
+</body>
+</html>
